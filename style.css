@@ -752,7 +752,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .cta {
-  background: url("./cta-bg.jpg") no-repeat;
+  background: url("../cta-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
